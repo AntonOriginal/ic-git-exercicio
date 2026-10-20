@@ -1,0 +1,3 @@
+-Criar um repositório local
+-Criar um repositório remoto e fazer push
+-Fazer alterações e comparar estados
